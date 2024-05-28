@@ -1,8 +1,8 @@
-## About Me 👋
+## About Me 👾
 <h4 align="left">I'm Raffaele Marino, a passionate programmer with a strong focus on development using Unity and SwiftUI. With a background in programming, I combine creativity and technical expertise to create engaging and high-performing digital experiences. I love bringing ideas to life through clean code and innovative solutions, with a keen eye on quality and software efficiency.  I am determined to grow professionally in the software development field and advance my career with passion and dedication
 </h4>
 
-## My Skills👋
+## My Skills 🧑🏽‍💻
 <ul>
   
 <li><strong>Game Development:</strong> Creating immersive and interactive games using Unity and SpriteKit.</li>
