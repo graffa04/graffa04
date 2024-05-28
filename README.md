@@ -1,22 +1,19 @@
 ## About Me 👋
-
-<!--
-**graffa04/graffa04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h4 align="left">I'm Raffaele Marino, a passionate programmer with a strong focus on development using Unity and SwiftUI. With a solid background in programming, I combine creativity and technical expertise to create engaging and high-performing digital experiences. I love bringing ideas to life through clean code and innovative solutions, with a keen eye on quality and software efficiency.  I am determined to grow professionally in the software development field and advance my career with passion and dedication
+<h4 align="left">I'm Raffaele Marino, a passionate programmer with a strong focus on development using Unity and SwiftUI. With a background in programming, I combine creativity and technical expertise to create engaging and high-performing digital experiences. I love bringing ideas to life through clean code and innovative solutions, with a keen eye on quality and software efficiency.  I am determined to grow professionally in the software development field and advance my career with passion and dedication
 </h4>
 
+## My Skills👋
+<ul>
+  
+<li><strong>Game Development:</strong> Creating immersive and interactive games using Unity and SpriteKit.</li>
+<li>Mobile App Development:</strong> Building intuitive and responsive mobile applications with SwiftUI.</li>
+<li>Algorithm Design:</strong> Crafting efficient algorithms to optimize performance and solve complex problems.</li>
+<li>Debugging and Testing:</strong> Identifying and resolving bugs, and conducting thorough testing to ensure software reliability.</li>
+<li>Version Control:</strong> Utilizing Git for effective collaboration and version management in development projects.</li>
+<li>Continuous Integration:</strong> Implementing CI/CD pipelines to streamline the development and deployment process.</li>
+<li>Code Review:</strong> Participating in code reviews to maintain code quality and foster a collaborative development environment.</li>
+
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raffaele marino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele marino" height="30" width="40" /></a>
