@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">I am a 20-year-old enthusiast currently enrolled in the Apple Developer Academy. With a strong passion for programming game and app development, I have acquired advanced skills in creating innovative solutions for iOS. I am determined to grow professionally in the software development field and advance my career with passion and dedication. I am looking for an opportunity that can broaden and develop my knowledge in app developing 
+<h3 align="left">I am a 20-year-old enthusiast currently enrolled in the Apple Developer Academy. With a strong passion for programming game and app development, I have acquired advanced skills in creating innovative solutions for iOS. I am determined to grow professionally in the software development field and advance my career with passion and dedication. I am looking for an opportunity that can broaden and develop my knowledge in app developing 
 </h3>
 
 <h3 align="left">Connect with me:</h3>
