@@ -6,12 +6,12 @@
 <ul>
   
 <li><strong>Game Development:</strong> Creating immersive and interactive games using Unity and SpriteKit.</li>
-<li>Mobile App Development:</strong> Building intuitive and responsive mobile applications with SwiftUI.</li>
-<li>Algorithm Design:</strong> Crafting efficient algorithms to optimize performance and solve complex problems.</li>
-<li>Debugging and Testing:</strong> Identifying and resolving bugs, and conducting thorough testing to ensure software reliability.</li>
-<li>Version Control:</strong> Utilizing Git for effective collaboration and version management in development projects.</li>
-<li>Continuous Integration:</strong> Implementing CI/CD pipelines to streamline the development and deployment process.</li>
-<li>Code Review:</strong> Participating in code reviews to maintain code quality and foster a collaborative development environment.</li>
+<li><strong>Mobile App Development:</strong> Building intuitive and responsive mobile applications with SwiftUI.</li>
+<li><strong>Algorithm Design:</strong> Crafting efficient algorithms to optimize performance and solve complex problems.</li>
+<li><strong>Debugging and Testing:</strong> Identifying and resolving bugs, and conducting thorough testing to ensure software reliability.</li>
+<li><strong>Version Control:</strong> Utilizing Git for effective collaboration and version management in development projects.</li>
+<li><strong>Continuous Integration:</strong> Implementing CI/CD pipelines to streamline the development and deployment process.</li>
+<li><strong>Code Review:</strong> Participating in code reviews to maintain code quality and foster a collaborative development environment.</li>
 
 </ul>
 <h3 align="left">Connect with me:</h3>
